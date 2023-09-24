@@ -1,0 +1,1 @@
+# cypress-image-diff-js-browserstack-integration-typescript
