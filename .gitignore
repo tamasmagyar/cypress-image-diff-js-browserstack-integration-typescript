@@ -1,0 +1,12 @@
+node_modules
+npm_install_debug.log
+
+cypress-visual-report
+cypress-visual-screenshots/diff
+cypress-visual-screenshots/comparison
+
+# Browserstack
+build_artifacts
+usage.log
+build_results.txt
+results
